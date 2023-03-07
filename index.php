@@ -1,1 +1,5 @@
-<h1>hola</h1>
+<?php
+
+    $url = $_GET['ruta'];
+    echo $url;
+?>
